@@ -42,7 +42,7 @@ Essas experiências não apenas reforçam minha habilidade de trabalho em equipe
 
 ##
 
-### Você também me encontra em:
+### 🤝 Você também me encontra em:
 
 &nbsp;<a href="https://www.instagram.com/gabriel__machado10/">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
