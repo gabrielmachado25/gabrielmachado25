@@ -1,6 +1,6 @@
 ## Hi 👋
 
-Java | Node.js | Python | JavaScript | PostgreSQL | C | HTML
+Java | Node.js | Python | JavaScript | PostgreSQL | C | HTML | ReactJS
 
 Formação técnica em Eletrotécnica pela Fundação Escola Técnica Liberato Salzano Vieira da Cunha e atualmente estudante de Ciências da Computação na Universidade Feevale, em Novo Hamburgo, buscando meu primeiro emprego na área.
 
