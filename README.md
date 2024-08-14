@@ -1,5 +1,5 @@
 ## Hi 👋
-Formação técnica sólida em Eletrotécnica pela renomada Fundação Escola Técnica Liberato Salzano Vieira da Cunha e atualmente estudante de Ciências da Computação na Universidade Feevale, em Novo Hamburgo, buscando meu primeiro emprego na área.
+Formação técnica em Eletrotécnica pela Fundação Escola Técnica Liberato Salzano Vieira da Cunha e atualmente estudante de Ciências da Computação na Universidade Feevale, em Novo Hamburgo, buscando meu primeiro emprego na área.
 
 Trilho meu caminho para me tornar um profissional completo e preparado para os desafios da área de T.I. Gosto de resolver problemas complexos e projetos que exigem raciocínio analítico e pensamento crítico.
 
