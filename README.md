@@ -37,9 +37,9 @@
 
 ### 🙋🏻‍♂️ Um pouco mais sobre o **Gabriel**...
 
-Além dos desafios técnicos e profissionais, participo de trabalhos sociais e comunitários. Na Catedral São Luiz Gonzaga, desempenho um papel ativo juntamente com jovens e adultos. Faço parte da coordenação do movimento ONDA, grupo para jovens de 9 a 16 anos, sou membro da Pastoral da Música e coordenador da Pastoral da Comunicação, onde atuo como fotógrafo, videomaker e social media. Também faço parte da coordenação diocesana do Setor Juventude, onde exerço minha liderança e trabalho em equipe com mais de 5 mil jovens, buscando formar, inspirar e promover mudanças positivas em nossa comunidade.
+Além da área técnica, participo ativamente de iniciativas sociais e comunitárias. Na Catedral São Luiz Gonzaga, atuei por dois anos como coordenador do movimento ONDA, sou membro da Pastoral da Música e coordenador da Pastoral da Comunicação, atuando como fotógrafo, videomaker e social media. Sou também idealizador e coordenador do Ruah Brasil, projeto que visa se tornar o maior encontro de fiéis católicos do Sul do Brasil, envolvendo organização de grandes eventos, liderança de equipes, comunicação estratégica e relacionamento com diferentes públicos.
 
-Essas experiências não apenas reforçam minha habilidade de trabalho em equipe e liderança, mas também me proporcionam uma perspectiva mais ampla sobre as necessidades e desafios da sociedade.
+Essas experiências fortalecem minhas habilidades de liderança, comunicação, organização e trabalho em equipe, além de ampliar minha visão sobre impacto social, pessoas e processos.
 
 ##
 
