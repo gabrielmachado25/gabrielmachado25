@@ -6,7 +6,8 @@
 
 👨🏻‍💻 Buscando meu primeiro emprego na área
 
-👉 Trilho meu caminho para me tornar um profissional completo e preparado para os desafios da área de T.I. Gosto de resolver problemas complexos e projetos que exigem raciocínio analítico e pensamento crítico. Minha paixão por tecnologia motiva a minha busca contínua por conhecimento, visando contribuir de forma significativa para os projetos e metas da empresa.
+👉 Sou participante do programa CWI Crescer, atualmente no Level 2 - Trilha de QA, em preparação para atuar diretamente em equipes e projetos reais. No Level 1, desenvolvi uma base consistente em Java, Banco de Dados SQL, HTML/CSS e JavaScript, com exercícios práticos ao final de cada aula e TCC ao final de cada módulo, fortalecendo a aplicação prática dos conteúdos. No Level 2, estou focado em Qualidade de Software, aprofundando conhecimentos em Fundamentos e Metodologias de QA, Práticas Modernas de QA, Backend Java, Automação de Testes, QAOps, Git e Integração Contínua (CI), além de Inteligência Emocional e Comunicação, competências essenciais para atuação em times ágeis. O ciclo se encerra com o desenvolvimento de um TCC final, consolidando o aprendizado técnico e prático.
+
 
 ##
 
